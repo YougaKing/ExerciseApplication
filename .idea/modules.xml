@@ -3,15 +3,26 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ExerciseApplication.iml" filepath="$PROJECT_DIR$/ExerciseApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciseApplication.iml" filepath="$PROJECT_DIR$/ExerciseApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/bluetooth/bluetooth.iml" filepath="$PROJECT_DIR$/bluetooth/bluetooth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bluetooth/bluetooth.iml" filepath="$PROJECT_DIR$/bluetooth/bluetooth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conversation/conversation.iml" filepath="$PROJECT_DIR$/conversation/conversation.iml" />
       <module fileurl="file://$PROJECT_DIR$/conversation/conversation.iml" filepath="$PROJECT_DIR$/conversation/conversation.iml" />
       <module fileurl="file://$PROJECT_DIR$/graphviewlibrary/graphviewlibrary.iml" filepath="$PROJECT_DIR$/graphviewlibrary/graphviewlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graphviewlibrary/graphviewlibrary.iml" filepath="$PROJECT_DIR$/graphviewlibrary/graphviewlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/https/https.iml" filepath="$PROJECT_DIR$/https/https.iml" />
       <module fileurl="file://$PROJECT_DIR$/https/https.iml" filepath="$PROJECT_DIR$/https/https.iml" />
       <module fileurl="file://$PROJECT_DIR$/intent/intent.iml" filepath="$PROJECT_DIR$/intent/intent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intent/intent.iml" filepath="$PROJECT_DIR$/intent/intent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interprocesscommunication/interprocesscommunication.iml" filepath="$PROJECT_DIR$/interprocesscommunication/interprocesscommunication.iml" />
       <module fileurl="file://$PROJECT_DIR$/interprocesscommunication/interprocesscommunication.iml" filepath="$PROJECT_DIR$/interprocesscommunication/interprocesscommunication.iml" />
       <module fileurl="file://$PROJECT_DIR$/socket/socket.iml" filepath="$PROJECT_DIR$/socket/socket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socket/socket.iml" filepath="$PROJECT_DIR$/socket/socket.iml" />
       <module fileurl="file://$PROJECT_DIR$/structure/structure.iml" filepath="$PROJECT_DIR$/structure/structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/structure/structure.iml" filepath="$PROJECT_DIR$/structure/structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/touchevent/touchevent.iml" filepath="$PROJECT_DIR$/touchevent/touchevent.iml" />
       <module fileurl="file://$PROJECT_DIR$/touchevent/touchevent.iml" filepath="$PROJECT_DIR$/touchevent/touchevent.iml" />
     </modules>
   </component>
